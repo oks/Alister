@@ -1,6 +1,7 @@
 coverage:
   ignore:
     - Example/Alister-Example-Tests/.*
+    - Example/Pods/.*
 coverage:
   precision: 2
   round: down
