@@ -1,3 +1,14 @@
 coverage:
   ignore:
     - Example/Alister-Example-Tests/.*
+coverage:
+  precision: 2
+  round: down
+  range: "50...100"
+status:
+  patch: false
+  changes: false
+  project:
+  default:
+  target: 75
+comment: false
