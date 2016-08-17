@@ -1,5 +1,7 @@
 # Alister
 
+Please follow to: https://github.com/anodamobi/Alister
+
 [![CI Status](https://www.bitrise.io/app/dacce1f2a9bc5247.svg?token=q7t3t4-Ke8-_OFHl9vwQHg)]()
 [![Version](https://img.shields.io/cocoapods/v/Alister.svg?style=flat)](http://cocoapods.org/pods/Alister)
 [![License](https://img.shields.io/cocoapods/l/Alister.svg?style=flat)](http://cocoapods.org/pods/Alister)
